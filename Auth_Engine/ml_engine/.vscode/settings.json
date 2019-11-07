@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\cx02092\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+    "--enable=W0614"
+]
+}
